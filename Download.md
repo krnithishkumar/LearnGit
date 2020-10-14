@@ -1,15 +1,15 @@
 
 # LearnGit
 
-Useful links to learn download git for windows
+Useful link to download git for windows
 
 * https://git-scm.com/download/win
 
-Useful links to learn download git for windows
+Useful link to download git for Mac OS
 
 * https://git-scm.com/download/mac
 
-Useful links to learn download git for windows
+Useful link to download git for Linux
 
 * https://git-scm.com/download/linux
 
