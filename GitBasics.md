@@ -1,7 +1,7 @@
 ## Git basics
-### Git is a free and open-source version control system, originally created by Linus Torvalds in 2005. Unlike older centralized version control systems such as SVN and CVS, Git is distributed: every developer has the full history of their code repository locally. This makes the initial clone of the repository slower, but subsequent operations such as commit, blame, diff, merge, and log dramatically faster.
+*** Git is a free and open-source version control system, originally created by Linus Torvalds in 2005. Unlike older centralized version control systems such as SVN and CVS, Git is distributed: every developer has the full history of their code repository locally. This makes the initial clone of the repository slower, but subsequent operations such as commit, blame, diff, merge, and log dramatically faster.
 
-## Here is a basic overview of how Git works:
+### Here is a basic overview of how Git works:
 
 1. `Create a "repository" (project) with a git hosting tool (like Bitbucket)`
 2. `Copy (or clone) the repository to your local machine`
