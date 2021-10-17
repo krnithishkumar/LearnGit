@@ -8,7 +8,6 @@
 6. This command discards the most recently stashed changeset. - `git stash drop`
 ## Git Merge
 ### Fast Forward Merge
- Start a new feature
 7. Start a new feature - `git checkout -b new-feature main`
 8. Edit some files
 `git add <file>`
