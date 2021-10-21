@@ -1,5 +1,5 @@
 
-# LearnGit
+# Roadmap to LearnGit
 
 Useful links to learn git
 
@@ -10,8 +10,12 @@ Useful links to learn git
 
 Full Youtube Tutorial
 
+* https://youtu.be/RGOj5yH7evk
 * https://www.youtube.com/watch?v=xuB1Id2Wxak
+* https://youtu.be/gwWKnnCMQ5c 
 
 Online git playground
-
 * https://www.katacoda.com/courses/git/playground
+
+Short video to Contribute to open source 
+* https://youtu.be/c6b6B9oN4Vg
