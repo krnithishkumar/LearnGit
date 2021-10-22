@@ -3,11 +3,11 @@
 This is a repository for who wants to learn the basics of Git 💻
 
 ## Repository overview
-**Commands.md** = a list of commands you can use on Git
+[**Commands.md**](https://github.com/krnithishkumar/LearnGit/blob/master/Commands.md) = a list of commands you can use on Git
 
-**Download.md** = useful links to download Git based on your operational system
+[**Download.md**](https://github.com/krnithishkumar/LearnGit/blob/master/Download.md) = useful links to download Git based on your operational system
 
-**GitBasics.md** = a basic overview of Git
+[**GitBasics.md**](https://github.com/krnithishkumar/LearnGit/blob/master/GitBasics.md) = a basic overview of Git
 
 ## Resources
 Useful links to learn git
