@@ -1,6 +1,15 @@
 
 # LearnGit
+This is a repository for who wants to learn the basics of Git 💻
 
+## Repository overview
+**Commands.md** = a list of commands you can use on Git
+
+**Download.md** = useful links to download Git based on your operational system
+
+**GitBasics.md** = a basic overview of Git
+
+## Resources
 Useful links to learn git
 
 * https://www.tutorialspoint.com/git/index.htm
