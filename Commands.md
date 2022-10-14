@@ -33,3 +33,9 @@
 14. Merge in the new-feature branch
 `git merge new-feature`
 `git branch -d new-feature`
+## Git push
+15. Push command is used to upload local repository content to a remote repository. 
+`git push <option> [<Remote URL><branch name><refspec>...]`
+## Git pull
+16. Pull command is used to get the updates from remote repository to a local repository content.
+`git pull <option> [<repository URL><refspec>...]`
