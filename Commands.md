@@ -39,3 +39,6 @@
 ## Git pull
 16. Pull command is used to get the updates from remote repository to a local repository content.
 `git pull <option> [<repository URL><refspec>...]`
+## Git diff
+17. To show the difference between current working directory and last commit
+`git diff HEAD`
