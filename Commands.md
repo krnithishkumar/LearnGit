@@ -42,3 +42,6 @@
 ## Git diff
 17. To show the difference between current working directory and last commit
 `git diff HEAD`
+## Undoing things
+18. To modify a most recent commit. It lets you combine staged changes with the previous commit instead of creating an entirely new commit.
+`git commit --amend`
