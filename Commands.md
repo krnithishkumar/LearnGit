@@ -45,3 +45,9 @@
 ## Undoing things
 18. To modify a most recent commit. It lets you combine staged changes with the previous commit instead of creating an entirely new commit.
 `git commit --amend`
+## How to setup your Git user email
+19. To setup the user email address you'll use in your commits.
+`git config --global user.email "<your_email_id>"`
+# How to cache your login credentials in Git
+20. To store login credentials in the cache, so you don't have to type them in each time.
+`git config --global credential.helper cache`
